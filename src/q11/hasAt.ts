@@ -4,7 +4,7 @@ if(!input){
   process.exit;
 }
 if(input.includes("@")){
-  console.log("Has@");
+  console.log("Has @");
 }else{
-  console.log("No@");
+  console.log("No @");
 }
